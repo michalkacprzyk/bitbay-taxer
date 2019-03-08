@@ -1,0 +1,7 @@
+Rynek;Data operacji;Rodzaj;Typ;Kurs;Ilość;Wartość;Prowizja;Przychód;Koszt;Dochód;PCC
+BTC - PLN;05-01-2019 22:25:34;Sprzedaż;Taker;14444.00;0.13846580;2000.00;8.20;0.00;0.00;0.00;
+BTC - PLN;05-01-2019 22:25:34;Sprzedaż;Taker;14442.20;0.06304448;910.50;3.74;0.00;0.00;0.00;
+BTC - PLN;05-01-2019 22:25:34;Sprzedaż;Taker;14440.01;0.36920290;5331.29;21.86;0.00;0.00;0.00;
+ETH - PLN;07-01-2019 18:15:16;Kupno;Maker;573.00;25.10000000;14382.30;38.83;;;;144
+
+* Prowizje od kupna kryptowaluty pobierane są w danej w kryptowalucie. Przeliczanie na PLN odbywa się po kursie odpowiadającym transakcji której prowizja dotyczy. Oznacza to natychmiastowe kupno i sprzedaż kryptowaluty czyli brak dochodu do opodatkowania podatkiem dochodowym. Podatek PCC zawiera prowizje dla trasakcji kupna.
